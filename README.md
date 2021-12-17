@@ -7,6 +7,7 @@
 - AWS 기반 빅데이터 학습자료집 http://bit.ly/bdonaws
 - AWS 딥러닝 학습 자료 모음집 http://bit.ly/dlonaws
 - 2019년 re:Invent 에서 공개된 AI/ML관련 서비스 소개 http://bit.ly/2019-ml-recap
+- http://dfr20cpm485ln.cloudfront.net/Dev_HLS_index.html
 
 # 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 SAA-C02 (2020년 3월 출시) 수험 가이드 (bit.ly/saaguide)
 
